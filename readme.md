@@ -1,2 +1,3 @@
 
-This is readme file for gol
+This is readme file for game of life
+
